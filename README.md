@@ -1,0 +1,1 @@
+Some fun JVM bytecode hacks. In this repository, I show how it's possible to implement Duck Typing and Mixins in Java.
